@@ -269,3 +269,35 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/subagents/agent-ae734042aacef8197.jsonl. (9 November 2026, 12:52:06 +0100)
 
 > All 12 records parse, and all quotes match their lines. Writing the notes file now. (9 November 2026, 12:52:06 +0100)
+
+## 9 November 2026, 12:53:58 +0100 : Iteration
+
+<!-- feedback-event:fa065d6e9390fb6b3a8ad3b19531408d03df2073a313f43be71ed5c8bbbddfa9 (9 November 2026, 12:53:58 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 12:53:58 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/subagents/agent-a694cf38bf101e9f6.jsonl. (9 November 2026, 12:53:58 +0100)
+
+> Both files are fully read: Business1.md through line 771 and Readme.md through line 70. Now I'll write the digest, one record per section. (9 November 2026, 12:53:58 +0100)
+
+## 9 November 2026, 12:54:21 +0100 : Iteration
+
+<!-- feedback-event:a610165f475e4f0ed187fa5a88c1c0989d551d31b7d5174860ab317dccf9b019 (9 November 2026, 12:54:21 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 12:54:21 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/subagents/agent-a694cf38bf101e9f6.jsonl. (9 November 2026, 12:54:21 +0100)
+
+> The JSONL is written. Next I'll write the notes file, then validate both outputs. (9 November 2026, 12:54:21 +0100)
+
+## 9 November 2026, 12:54:31 +0100 : Iteration
+
+<!-- feedback-event:1a5402cf24a0c36030d28cabad52e04485cac1038997ff36dd9c9dd1b4dbf771 (9 November 2026, 12:54:31 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 12:54:31 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/subagents/agent-a694cf38bf101e9f6.jsonl. (9 November 2026, 12:54:31 +0100)
+
+> Both files validate: 20 records, all themes in the enum, no dashes in summaries, no quotes over 200 characters. Next I'll check that every quote is a verbatim substring of the cited source line. (9 November 2026, 12:54:31 +0100)
+
+## 9 November 2026, 12:54:39 +0100 : Iteration
+
+<!-- feedback-event:1c5244156a206ebe15cfae12f050c7d8a563d611d31ccbaef8f50e77e57f6afd (9 November 2026, 12:54:39 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 12:54:39 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/subagents/agent-a694cf38bf101e9f6.jsonl. (9 November 2026, 12:54:39 +0100)
+
+> One quote fails: line 755 of Business1.md has bold markers around "Échange substantiel", so the quote needs them to be verbatim. I'll correct that record and re-run the check. (9 November 2026, 12:54:39 +0100)
