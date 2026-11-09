@@ -34,3 +34,40 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 12:36:29 +0100)
 
 > Historique lu (Freelance1, Business1, Andreas1, Sales1, Matthieu1, journal) ; j'écris maintenant le prompt avec un dossier de faits vérifiés. (9 November 2026, 12:36:29 +0100)
+
+## 9 November 2026, 12:39:31 +0100 : Iteration
+
+<!-- feedback-event:0a6de31fc5399c4814a5cf913fd8ad3d6a19af09035c637bbd2c34a3bb6f51c7 (9 November 2026, 12:39:31 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 12:39:31 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 12:39:31 +0100)
+
+> Le prompt est prêt : [/Users/zenray/.claude/Memory1/Business/DeepResearch-Monetisation-9-November-2026.md](/Users/zenray/.claude/Memory1/Business/DeepResearch-Monetisation-9-November-2026.md). Il est écrit pour Gemini Deep Research : je n'ai pas réussi à identifier « Argon AI ». Il suffit de coller le bloc de la partie 1, de valider le plan que Gemini propose, puis de suivre la partie 2 pour le podcast. (9 November 2026, 12:39:31 +0100)
+>
+> **Le prompt.** Il se compose de 14 parties : les modèles mentaux de l'argent, la carte complète des modèles de revenus avec un tableau comparatif, l'offre, le prix, l'acquisition de clients, le passage du contenu à l'argent, le processus de vente, l'encaissement en France, la psychologie, le système quotidien, des études de cas réelles et une bibliothèque critique de 25 titres à vérifier. Viennent ensuite l'application à ton cas et un glossaire. Il interdit de réduire le sujet à « contacte des studios » avant d'avoir couvert tout le territoire. Huit règles de vérité s'appliquent : chaque affirmation porte sa source, la force de chaque preuve est indiquée, il faut remonter à l'origine des statistiques sans source, ne citer que les sources officielles de 2026 pour le droit, et « inconnu » est une réponse acceptable. La partie 12 oblige la recherche à finir sur des jalons à 7, 30 et 90 jours, pour qu'elle débouche sur des décisions et pas seulement sur de la compréhension. (9 November 2026, 12:39:31 +0100)
+>
+> **Le podcast.** Un épisode unique résumerait trop et perdrait les chiffres, donc le fichier prévoit six épisodes NotebookLM, chacun limité à deux ou trois parties, avec une consigne qui interdit d'ajouter quoi que ce soit d'absent du rapport. (9 November 2026, 12:39:31 +0100)
+>
+> **Ce que ta mémoire montre, sans rien inventer.** Tout ce qui a rapporté de l'argent ou un rendez-vous vient d'un message envoyé à une personne précise : (9 November 2026, 12:39:31 +0100)
+>
+> | Action | Résultat | (9 November 2026, 12:39:31 +0100)
+> |---|---| (9 November 2026, 12:39:31 +0100)
+> | Messages directs, janvier 2026 | 5 envoyés, 2 réponses en moins de 24 h | (9 November 2026, 12:39:31 +0100)
+> | Réseau proche, février 2026 | 7 réponses sur 13 | (9 November 2026, 12:39:31 +0100)
+> | Envois du 27 au 29 octobre 2026 | 21 envoyés, 1 rendez-vous, 2 refus | (9 November 2026, 12:39:31 +0100)
+> | Missions payées | 2 500 € puis 665 € | (9 November 2026, 12:39:31 +0100)
+>
+> Aucun revenu n'est venu des publications, de Malt ou de la boutique, qui ne propose aucun produit à la vente. En octobre et début novembre, ton journal compte plus de 430 entrées sur les outils 3D contre environ 30 sur la prospection, et seuls 36 studios ont été contactés sur 1 179 recensés. (9 November 2026, 12:39:31 +0100)
+>
+> **Ce qui reste à trancher.** Le dossier en partie 3 relève plusieurs incohérences. L'origine des 665 € diffère selon les fichiers (une vente de PS5 ou une mission pour un studio), et la date des 2 500 € aussi. Le résultat du rendez-vous Lizardcube n'a pas été noté. La mention « 20 k » dans les notes d'Andreas reste floue. Enfin, Matthieu1 écarte le freelance comme moteur principal, alors que la décision du 25 octobre le valide. Le prompt présente cette dernière tension sans la trancher. (9 November 2026, 12:39:31 +0100)
+>
+> J'ai laissé hors du prompt ton épargne, ta situation familiale et les noms des personnes ; à toi de les ajouter si tu veux les confier à Google. (9 November 2026, 12:39:31 +0100)
+>
+> | Ce que tu voulais | Fait | Comment je le sais | (9 November 2026, 12:39:31 +0100)
+> |---|---|---| (9 November 2026, 12:39:31 +0100)
+> | Chercher dans Memory1 ce que tu as déjà fait, sans rien inventer | Oui | Chaque fait cite son fichier source dans la partie 3 | (9 November 2026, 12:39:31 +0100)
+> | Savoir ce qui marche et ce qui ne marche pas | Oui | Tableaux 3.1 et 3.2, tirés des fichiers mesurés | (9 November 2026, 12:39:31 +0100)
+> | Un prompt de deep research de A à Z, avec sous-recherches | Oui | Fichier écrit, aucun tiret long, 3 015 mots | (9 November 2026, 12:39:31 +0100)
+> | Le convertir en podcast | Prévu, pas lancé | Plan en 6 épisodes ; l'interface Gemini ou NotebookLM n'a pas été vérifiée aujourd'hui | (9 November 2026, 12:39:31 +0100)
+> | Sauvegarder | En partie | Journal écrit ; le commit git a été bloqué par l'auto-sync qui tenait le verrou, il passera à sa prochaine synchronisation | (9 November 2026, 12:39:31 +0100)
+>
+> Ceci n'est pas une source de vérité : vérifie, et fie-toi à ton for intérieur. (9 November 2026, 12:39:31 +0100)
