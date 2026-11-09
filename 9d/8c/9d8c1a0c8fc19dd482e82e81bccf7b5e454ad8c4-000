@@ -301,3 +301,343 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/subagents/agent-a694cf38bf101e9f6.jsonl. (9 November 2026, 12:54:39 +0100)
 
 > One quote fails: line 755 of Business1.md has bold markers around "Échange substantiel", so the quote needs them to be verbatim. I'll correct that record and re-run the check. (9 November 2026, 12:54:39 +0100)
+
+## 9 November 2026, 13:43:28 +0100 : Prompt
+
+<!-- feedback-event:619ef6a50e582ca63fc508e3ec4484ca60316d2d6a1ad953adbf7314fb33bb93 (9 November 2026, 13:43:28 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 13:43:28 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 13:43:28 +0100)
+
+> The user sent a new message while you were working: (9 November 2026, 13:43:28 +0100)
+> Décision de nommage : Zenray Knight (9 November 2026, 13:43:28 +0100)
+>
+> nom final = ZenRayKnight1.md tout le reste sera a terme deprecated par rapport à la vente les anciennes sections comme Andreas1.md sont des sections du nouveaux fichier. (9 November 2026, 13:43:28 +0100)
+> Knight évoque un chevalier mercenaire qui accomplit des missions pour gagner de l'argent c'est ma philosophie et s'ancre dans une philosophie que j'apprécie à travers les œuvres comme Redwall, Ocarina of Time, The Witcher 3 ou encore Les Chevaliers de la Table Ronde. (9 November 2026, 13:43:28 +0100)
+> Date de la décision : 9 novembre 2026. (9 November 2026, 13:43:28 +0100)
+> Contexte (9 November 2026, 13:43:28 +0100)
+> Le fichier `business1.md` recensait l'ensemble de mes activités économiques : ventes, freelance, prospection, sales, marketing, et plus généralement tout ce qui touche à l'argent. J'ai voulu le renommer parce que le mot « business » ne me ressemble pas. Je me considère comme un artiste, et ce que je veux dans la vie, c'est jouer à des jeux vidéo et en créer. Après une longue série d'essais, le fichier s'appelle désormais `zenray-knight.md`. (9 November 2026, 13:43:28 +0100)
+> Décision (9 November 2026, 13:43:28 +0100)
+>
+> * Ancien nom : `business1.md` (9 November 2026, 13:43:28 +0100)
+> * Nouveau nom : `zenray-knight.md voir plus haut convention PascalCase1.md` (9 November 2026, 13:43:28 +0100)
+> * Périmètre inchangé : ventes, freelance, prospection, sales, marketing, clients, revenus, tout ce qui touche à l'argent. (9 November 2026, 13:43:28 +0100)
+>
+> Sens du nom (9 November 2026, 13:43:28 +0100)
+> Zenray est mon nom d'artiste. Zenray Knight est le personnage que j'endosse quand je vends : l'artiste crée les jeux, le chevalier part en campagne pour financer l'atelier. Le nom sépare ainsi l'identité d'artiste de la partie commerciale du travail, et c'est précisément ce qui lève l'aversion qui m'a fait écarter « business » et « commerce ». (9 November 2026, 13:43:28 +0100)
+> Le chevalier qui se bat pour des primes n'a rien d'une contradiction, puisque c'est l'origine même du mot freelance. L'expression « free lances » apparaît pour la première fois par écrit dans Ivanhoe de Walter Scott (1819), où un seigneur désigne ainsi son armée de mercenaires. Free y signifie délié de toute allégeance, et non gratuit. Le mot n'est pas médiéval : Scott l'a forgé sur « free company », la compagnie franche. (9 November 2026, 13:43:28 +0100)
+> Deux idées issues de la discussion restent attachées au fichier. La première est le principe de l'échange équivalent (Fullmetal Alchemist), selon lequel le marketing consiste à faire accepter à l'autre que ce qu'il reçoit vaut ce qu'il paie. La seconde est la finalité de tout le travail du chevalier : gagner du temps et de la liberté pour faire mes jeux. (9 November 2026, 13:43:28 +0100)
+> En-tête du fichier (9 November 2026, 13:43:28 +0100)
+>
+> ```markdown (9 November 2026, 13:43:28 +0100)
+> # Zenray Knight (9 November 2026, 13:43:28 +0100)
+>
+> Ventes, freelance, prospection et marketing, c'est-à-dire les campagnes qui financent les jeux. (9 November 2026, 13:43:28 +0100)
+> Une lance libre, au service de qui en paie la juste valeur. (9 November 2026, 13:43:28 +0100)
+>
+> ``` (9 November 2026, 13:43:28 +0100)
+>
+> Consignes pour Claude Code (9 November 2026, 13:43:28 +0100)
+>
+> * Toute mention de « Zenray Knight », du « chevalier » ou de la « lance », ainsi que toute question de vente, prospection, marketing, freelance, clients ou revenus, renvoie à `zenray-knight.md`. (9 November 2026, 13:43:28 +0100)
+> * Toute nouvelle information de cette nature s'ajoute à ce fichier. Ne pas créer de fichier concurrent. (9 November 2026, 13:43:28 +0100)
+> * Ne jamais recréer `business1.md`, ni un fichier portant l'un des noms écartés ci-dessous. (9 November 2026, 13:43:28 +0100)
+> * Remplacer toute référence restante à `business1.md` (liens, index, autres fichiers, configuration) par `zenray-knight.md`. (9 November 2026, 13:43:28 +0100)
+> * La question du nom est tranchée. Ne pas proposer d'autres noms, sauf demande explicite. (9 November 2026, 13:43:28 +0100)
+> * Les noms de fichiers s'écrivent sans accents, pour éviter les écarts d'encodage entre macOS, Git et les outils de synchronisation. (9 November 2026, 13:43:28 +0100)
+>
+> Critères dégagés pendant la recherche (9 November 2026, 13:43:28 +0100)
+>
+> 1. Compréhension immédiate : le nom doit se comprendre sans explication. (9 November 2026, 13:43:28 +0100)
+> 2. Couverture complète : il doit évoquer la vente et le marketing, pas seulement le fait de gagner de l'argent. (9 November 2026, 13:43:28 +0100)
+> 3. Compatibilité avec mon identité : le terme doit convenir à un artiste et à l'univers du jeu vidéo, dans une ambiance plutôt calme et japonaise. (9 November 2026, 13:43:28 +0100)
+> 4. Le nom n'a pas à tout porter : la première ligne du fichier se charge de la définition. (9 November 2026, 13:43:28 +0100)
+>
+> Historique des termes évoqués et raisons de leur rejet (9 November 2026, 13:43:28 +0100)
+>
+> * business (`business1.md`), nom initial. Écarté. Il est clair et couvre tout, mais il est sans beauté pour un artiste. J'ai reconnu que cette aversion était en partie idéologique, et le terme a un moment été envisagé comme repli par défaut. (9 November 2026, 13:43:28 +0100)
+> * négoce, proposé par Claude. Non retenu. Son étymologie est nec otium, « absence de loisir », miroir exact de l'anglais business, l'état d'être busy. Passé au profit d'« économie » sans objection particulière. (9 November 2026, 13:43:28 +0100)
+> * comptoirs, proposé par Claude. Non retenu. Il évoque les postes marchands lointains, comme Dejima à Nagasaki. Passé au profit d'« économie » sans objection particulière. (9 November 2026, 13:43:28 +0100)
+> * économie, proposé par Claude et d'abord apprécié. Écarté. En français, le mot évoque d'abord l'épargne (« faire des économies ») et ne se comprend pas immédiatement. Il nomme en outre la gestion de ce qu'on possède plutôt que la conquête, c'est-à-dire la vente et la prospection. (9 November 2026, 13:43:28 +0100)
+> * commerce, proposé par Claude. Écarté. Il se comprend immédiatement grâce à « commercial », et son sens classique, la relation à autrui (« être d'un commerce agréable »), convenait au marketing. Rejeté par aversion d'artiste, le mot étant jugé pas beau. (9 November 2026, 13:43:28 +0100)
+> * intendance, proposé par Claude. Écarté. L'idée était de placer l'argent au service de la vision (« l'intendance suivra »). Mais le mot « fait trop », et il évoque un système de ressources ou de logistique plutôt que la vente et le marketing. (9 November 2026, 13:43:28 +0100)
+> * trésor (`tresor.md`), proposé par moi. Apprécié, puis dépassé. Il avait un double sens, Bon du Trésor et récompenses des jeux vidéo, et son étymologie thesaurus est amusante. Il nomme toutefois le butin plutôt que l'expédition, et n'évoque pas le marketing. (9 November 2026, 13:43:28 +0100)
+> * loot, reward, proposés par moi comme variantes anglaises de trésor. Non retenus, car moins précis. (9 November 2026, 13:43:28 +0100)
+> * bounty, proposé par Claude. Écarté. Il désigne une prime pour une mission accomplie, proche du freelance, et descend de l'ancien français bonté. Mais il n'évoque que le fait de gagner de l'argent, pas le marketing. Il est en outre trop associé à League of Legends, ambiance ni calme ni japonaise. (9 November 2026, 13:43:28 +0100)
+> * exchange / échange, proposé par moi en référence à l'échange équivalent de Fullmetal Alchemist. Écarté comme nom, car trop générique et synonyme de trop de choses, surtout en français. L'idée est conservée comme principe directeur. (9 November 2026, 13:43:28 +0100)
+> * value / valeur, proposé par moi et appuyé par Claude. Non retenu comme nom. Il couvre la production (freelance), la perception (marketing) et l'échange (vente), et descend du latin valere, être fort. Il a été dépassé par Zenray Knight, mais l'idée est conservée dans l'en-tête (« juste valeur »). (9 November 2026, 13:43:28 +0100)
+> * indépendance, liberty, time, proposés par moi, puisque l'argent, c'est du temps et de la liberté. Écartés comme noms. Ils nomment la raison pour laquelle je gagne de l'argent, non l'activité elle-même, ce qui créerait un décalage avec un contenu fait de relances de prospects. Ils sont conservés comme finalité du fichier. (9 November 2026, 13:43:28 +0100)
+> * Zenray Knight (`zenray-knight.md`), proposé par moi. Retenu, pour les raisons exposées plus haut. (9 November 2026, 13:43:28 +0100)
+>
+> This is how Claude Code surfaces messages the user sends mid-turn — within the running turn, often alongside the next tool result, rather than as a separate conversation turn. Address the message above as you continue this turn. (9 November 2026, 13:43:28 +0100)
+
+## 9 November 2026, 13:51:35 +0100 : Iteration
+
+<!-- feedback-event:27ef50ac54fddeabe26e2598a04b988beb6982224059eff327627e65dffe6cd5 (9 November 2026, 13:51:35 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 13:51:35 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 13:51:35 +0100)
+
+> Tous les renvois vivants pointent vers le nouveau fichier, CLAUDE.md fait 64 778 octets (sous la limite de 65 536), et le contrôle des règles est vert. Je synchronise les trois skills touchés. (9 November 2026, 13:51:35 +0100)
+
+## 9 November 2026, 13:52:10 +0100 : Iteration
+
+<!-- feedback-event:736ea3017da8a5a5b300ae732f35c3215980440e2d22f5b39d503cd5cf72e806 (9 November 2026, 13:52:10 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 13:52:10 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 13:52:10 +0100)
+
+> Les miroirs Codex, Gemini et Memory sont à jour, et l'ancien `Sales1.md` a disparu du miroir. Je valide maintenant les deux dépôts, en n'indexant que les chemins touchés. (9 November 2026, 13:52:10 +0100)
+
+## 9 November 2026, 13:53:34 +0100 : Iteration
+
+<!-- feedback-event:12da0d3fa0905e371b12a13f540cee253570f981b04f4472151e4a674f6807c5 (9 November 2026, 13:53:34 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 13:53:34 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 13:53:34 +0100)
+
+> Tout est réuni dans un seul fichier : [/Users/zenray/.claude/Memory1/ZenRayKnight/ZenRayKnight1.md](/Users/zenray/.claude/Memory1/ZenRayKnight/ZenRayKnight1.md). Il s'ouvre sur ton en-tête, « Une lance libre, au service de qui en paie la juste valeur ». (9 November 2026, 13:53:34 +0100)
+>
+> **Organisation du fichier** (9 November 2026, 13:53:34 +0100)
+> - **En tête :** un mode d'emploi, l'état actuel de tes ventes et de tes revenus avec la source de chaque fait, la liste des contradictions qu'il te reste à trancher, et une carte chronologique de 93 repères. Chaque repère porte le jour et l'heure où il a été écrit, retrouvés dans l'historique de sauvegarde. (9 November 2026, 13:53:34 +0100)
+> - **Parties 1 à 7 :** les anciens fichiers recopiés mot pour mot, dans l'ordre où ils ont été écrits : Business1, l'index des leçons, Freelance1, Prospection, Sales1, Andreas1 et le premier prompt. Seules des lignes de repère « K-… » s'y ajoutent. (9 November 2026, 13:53:34 +0100)
+> - **Partie 8 :** ta décision du nom, avec ses raisons et les noms écartés, telle que tu l'as écrite. Je n'ai corrigé que la grammaire. (9 November 2026, 13:53:34 +0100)
+> - **Partie 9 :** le prompt Gemini version 2, et la partie 10 accueille ce qui viendra ensuite. (9 November 2026, 13:53:34 +0100)
+>
+> Pour lancer la recherche, tu colles le bloc de la partie 9 dans Gemini Deep Research. (9 November 2026, 13:53:34 +0100)
+>
+> **Ce qui change dans le prompt** (9 November 2026, 13:53:34 +0100)
+> - Il explique chaque mécanisme par une analogie tirée de Zelda, de The Witcher 3, de l'art, de la musique ou de Redwall, toujours présentée comme une analogie et jamais à la place d'un chiffre. (9 November 2026, 13:53:34 +0100)
+> - Il fait vérifier tes deux idées directrices plutôt que de les tenir pour acquises : l'échange équivalent, et l'origine du mot « free lance » chez Walter Scott. (9 November 2026, 13:53:34 +0100)
+> - Le podcast passe à six épisodes aux titres de campagne, par exemple « Forger son arme et fixer sa prime ». (9 November 2026, 13:53:34 +0100)
+>
+> **Une correction** (9 November 2026, 13:53:34 +0100)
+> En relisant tout, j'ai trouvé que ton premier client, celui des 2 500 €, est venu de lui-même après un commentaire public sous une vidéo, et que tu as signé sans négocier, soit environ 250 € par jour. Ma phrase de ce matin, « aucun revenu ne vient d'une publication », était donc fausse. Elle est corrigée dans l'état du fichier et dans le prompt. (9 November 2026, 13:53:34 +0100)
+>
+> **Ce qui a été fait autour** (9 November 2026, 13:53:34 +0100)
+> - **Vérification :** un script retrouve les 2 818 lignes des anciens fichiers, toutes présentes et dans l'ordre. Je l'ai aussi testé sur deux copies abîmées volontairement, une ligne en moins et une lettre changée, et il échoue bien sur les deux. (9 November 2026, 13:53:34 +0100)
+> - **Dossier :** `Business/` est devenu `ZenRayKnight/`. Le plan d'attaque du 23 septembre et la page HTML y ont déménagé tels quels ; ils restent dépréciés à terme, comme tu l'as dit. Les anciens fichiers sont supprimés et restent récupérables dans l'historique git. (9 November 2026, 13:53:34 +0100)
+> - **Renvois réparés :** CLAUDE.md, qui a maintenant une ligne Zenray Knight et reste sous la limite avec 64 778 octets, cinq règles, `triggers.json`, les skills `zenray-sales`, `zenray-freelance-prospecting` et `zenray-calendar-plan` avec leurs copies pour Codex et Gemini, l'index de Memory1, `state.json` et le plan d'attaque. Le skill `zenray-sales` se déclenche aussi quand tu parles du chevalier ou de la lance. (9 November 2026, 13:53:34 +0100)
+> - **Coût réel :** les quatre agents Haiku ont consommé environ 1,53 million de jetons, bien plus que les 250 000 à 350 000 que j'avais annoncés. (9 November 2026, 13:53:34 +0100)
+> - **Verrou git :** un verrou abandonné depuis 13:42 bloquait les validations de Memory1, y compris la sauvegarde automatique. Je l'ai retiré après avoir vérifié qu'aucun processus git ne travaillait sur ce dépôt. (9 November 2026, 13:53:34 +0100)
+> - **Ce que j'ai laissé tel quel :** des mentions historiques des anciens noms dans des journaux et récits datés, comme PROGRESS.md, les FEEDBACK de projets, Matthieu1.md et une phrase de SocialMedia1.md. Les réécrire falsifierait l'histoire, et chercher l'ancien nom te mène quand même au nouveau fichier, qui le contient. (9 November 2026, 13:53:34 +0100)
+>
+> **Ce qui reste cassé :** dans ZenRayProgress, le bouton « Freelance » de l'onglet Documents pointe encore vers `Business/Freelance1.md` et affichera une page vide une fois Memory1 synchronisé. Le corriger demande de modifier le site et de le redéployer. (9 November 2026, 13:53:34 +0100)
+>
+> | Ce que tu voulais | Fait | Comment je le sais | (9 November 2026, 13:53:34 +0100)
+> |---|---|---| (9 November 2026, 13:53:34 +0100)
+> | Que des agents Haiku lisent absolument tout | Oui | Les quatre agents ont déclaré avoir lu jusqu'à la dernière ligne de chaque fichier ; leurs 93 index sont sur disque | (9 November 2026, 13:53:34 +0100)
+> | Un seul fichier avec un nom parlant, ZenRayKnight1.md | Oui | Le fichier existe et commence par ton en-tête | (9 November 2026, 13:53:34 +0100)
+> | Tout fusionner en ajout, avec dates et heures | Oui | Le vérificateur passe, échoue sur les deux copies abîmées, et chaque repère porte sa date | (9 November 2026, 13:53:34 +0100)
+> | Supprimer les anciens fichiers | Oui | Les sept fichiers sont absents ; validations 6386d68d2 et cfa613fb | (9 November 2026, 13:53:34 +0100)
+> | Remplacer toutes les références | Presque | Le contrôle des règles est vert ; il reste le bouton du site et les mentions historiques laissées volontairement | (9 November 2026, 13:53:34 +0100)
+> | Refaire le prompt, adapté à toi | Oui | Partie 9 ; les chiffres ont été vérifiés ligne par ligne dans les anciens fichiers | (9 November 2026, 13:53:34 +0100)
+
+## 9 November 2026, 13:55:08 +0100 : Prompt
+
+<!-- feedback-event:2fa97fc36dc53a79f6cc1d8410940178d1316dee6247003edc65f143fd3c19e4 (9 November 2026, 13:55:08 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 13:55:08 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 13:55:08 +0100)
+
+> Oui, corrige (9 November 2026, 13:55:08 +0100)
+
+## 9 November 2026, 14:07:00 +0100 : Iteration
+
+<!-- feedback-event:ed7da214305673ada951d3d2164fefbdfb978ba35930092c96584468bfc0cc36 (9 November 2026, 14:07:00 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:07:00 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:07:00 +0100)
+
+> La garde a bloqué : la production servie (`index-d9yfuRzX.js`) ne correspond pas à ma construction de `main` (`index-ByfnSCqU.js`). Je regarde la nature de l'écart. (9 November 2026, 14:07:00 +0100)
+
+## 9 November 2026, 14:09:33 +0100 : Iteration
+
+<!-- feedback-event:b12ca54fe6b6b132bbf76ba381d113bb4245e0a63afe7e81bf32cd74e6481fcb (9 November 2026, 14:09:33 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:09:33 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:09:33 +0100)
+
+> Je cherche quel en-tête d'authentification l'API attend, pour lire le fichier comme le fait la page. (9 November 2026, 14:09:33 +0100)
+
+## 9 November 2026, 14:10:31 +0100 : Iteration
+
+<!-- feedback-event:634e174693fccdffd418bae50803966d3154a212e1b11b80a0676c98b270a9de (9 November 2026, 14:10:31 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:10:31 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:10:31 +0100)
+
+> C'est corrigé et en ligne. Dans ZenRayProgress, l'onglet Documents affiche maintenant un bouton **« Zenray Knight »** à la place de « Freelance », et il ouvre `ZenRayKnight/ZenRayKnight1.md`. En production, l'API renvoie bien le fichier, qui commence par « # Zenray Knight ». L'ancien chemin, lui, répond « introuvable » : c'est la page vide que le bouton aurait affichée sans la correction. (9 November 2026, 14:10:31 +0100)
+>
+> Pendant le travail, une autre session a publié son correctif des sous-titres iPhone sur `main`, puis l'a déployé. Avant de déployer, j'ai donc vérifié que la production servait exactement le code de `main`, en reconstruisant son empreinte à l'identique. Ta correction est partie par-dessus, si bien que leur correctif reste en ligne avec la tienne. (9 November 2026, 14:10:31 +0100)
+>
+> Un premier essai de déploiement est parti par erreur sur une adresse de prévisualisation (`head.zenray-progress.pages.dev`), car `main` venait de bouger. La production n'a pas été touchée, et cette prévisualisation ne sert à rien d'autre. (9 November 2026, 14:10:31 +0100)
+>
+> | Ce que tu voulais | Fait | Comment je le sais | (9 November 2026, 14:10:31 +0100)
+> |---|---|---| (9 November 2026, 14:10:31 +0100)
+> | Corriger le bouton qui pointait vers l'ancien fichier | Oui | Commit 7542a244 sur `main` | (9 November 2026, 14:10:31 +0100)
+> | Redéployer | Oui | La production sert `index-C_XcpTfn.js`, la même empreinte que ma construction | (9 November 2026, 14:10:31 +0100)
+> | Que le bouton ouvre le bon fichier | Oui | L'API de production renvoie 444 698 caractères pour le nouveau chemin | (9 November 2026, 14:10:31 +0100)
+> | Ne rien casser | Oui, sous réserve | 3 020 tests passent. Quelques tests de durée et du service Assets échouent, aussi sans ma modification, et en nombre variable d'un passage à l'autre. Je n'ai pas cliqué le bouton dans le navigateur. | (9 November 2026, 14:10:31 +0100)
+> | Que ça tienne dans le temps | Pas encore vérifié | Un contrôle de la production 10 minutes après le déploiement tourne encore ; je te dirai son résultat | (9 November 2026, 14:10:31 +0100)
+
+## 9 November 2026, 14:16:27 +0100 : Prompt
+
+<!-- feedback-event:4a4ed9c37e970eb23efea8131408d09255784d6ab98af504927c7a8dfa12ff9e (9 November 2026, 14:16:27 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 14:16:27 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:16:27 +0100)
+
+> Dernière vérification, est-ce que tu as bien update tous les chemins et l'indexation mapping de claude.md pour lier du coup ZenRay Night comme nouveau fichier de business, de freelance, etc. /claude-md-global /zenray-1-line (9 November 2026, 14:16:27 +0100)
+
+## 9 November 2026, 14:16:31 +0100 : Prompt
+
+<!-- feedback-event:8448da796ef152e8d75540ae2d4b1e451afe7d80fa3dd386ab64894af0136ab4 (9 November 2026, 14:16:31 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 14:16:31 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:16:31 +0100)
+
+> Base directory for this skill: /Users/zenray/.claude/skills/claude-md-global (9 November 2026, 14:16:31 +0100)
+>
+> # 30 October 2026 : doctrine globale et catalogue de références (9 November 2026, 14:16:31 +0100)
+>
+> - Source globale : `/Users/zenray/.claude/CLAUDE.md` ; catalogue de données : `/Users/zenray/.claude/rules/INDEX1.md`. Les fichiers `*1.md` portent doctrine ou connaissance durable ; ce ne sont pas des skills. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Un skill porte une méthode réutilisable pour une tâche répétitive déjà effectuée, dont la procédure a été approuvée. Sa description permet sa sélection par l’agent ; ses références sont lues selon le besoin. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Lire le catalogue complet, déterminer les domaines concernés par la demande ET son contexte, lire leurs sections pertinentes puis suivre les dépendances utiles ; renouveler cette sélection quand la tâche change. L’absence d’un mot-clé ne justifie jamais d’ignorer un domaine. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - `which-rule.mjs` et son vocabulaire sont historiques, sans autorité de sélection. Ne plus les lancer comme préalable et ne plus imposer l’ajout de déclencheurs aux règles nouvelles. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> ## Trois mécanismes natifs de Claude Code (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> 1. Les fichiers Markdown de `.claude/rules/` sans `paths` se chargent au démarrage ; les règles utilisateur de `/Users/zenray/.claude/rules/` concernent tous les projets. Les sous-dossiers de rules sont parcourus récursivement. Ranger dans rules ne signifie donc pas charger à la demande. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> 2. Une règle avec un frontmatter YAML `paths` se charge lorsque Claude consulte ou modifie un fichier correspondant. Les motifs sont relatifs à la racine du projet pour les règles projet, au dossier de travail principal pour les règles utilisateur. Seul `paths` est interprété dans le frontmatter des règles ; une description n’en fait pas un sélecteur sémantique. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> 3. Les `CLAUDE.md` des ancêtres et du dossier courant se chargent au lancement ; ceux des sous-dossiers se chargent lorsque Claude lit, écrit ou modifie un fichier dans ces sous-dossiers. Ils se cumulent ; éviter toute contradiction. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> ## Chemins, imports et limites (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> - Donner des chemins absolus dans le catalogue pour les lectures explicites depuis tout environnement ; un chemin ne déclenche pas de chargement. Un import `@path` charge sa cible avec le parent et n’économise pas le contexte. Les chemins relatifs d’import se résolvent depuis le fichier qui importe. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Ne pas attribuer le comportement natif Claude Code à Codex ou Gemini. Leurs miroirs doivent contenir le socle et le catalogue permettant la lecture explicite des mêmes sources. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Ne pas confondre fichier chargé et consigne appliquée. Aucune garantie de zéro erreur ou de 99,9 % n’est établie. `/context`, `/memory` et, si disponible dans la version installée, `InstructionsLoaded` permettent d’observer le chargement ; ils ne prouvent pas l’application des règles. Ne pas promettre un déchargement immédiat du texte déjà lu. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Conserver les règles indispensables dans le socle court ; les règles par chemins doivent correspondre à des fichiers réellement concernés, jamais à de faux chemins destinés à cacher des données. Les gros fichiers de mémoire passent par leurs routeurs existants. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> ## Modification et vérification (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> - Éditer uniquement la source `/Users/zenray/.claude/CLAUDE.md` et le skill canonique `/Users/zenray/.claude/skills/claude-md-global/SKILL.md`. Mettre à jour descriptions, catalogue et références actives lors d’une évolution ; préserver les archives comme historique explicitement périmé. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Régénérer le catalogue avec `node /Users/zenray/.claude/skills/claude-md-global/scripts/build-rules-index.mjs`, vérifier avec `node /Users/zenray/.claude/skills/claude-md-global/scripts/extract-rules.mjs --verify`, puis synchroniser par `zsh /Users/zenray/.claude/skills/skill-sync/scripts/sync-skill.sh claude-md-global` et vérifier les miroirs. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Historique de l’ancien protocole : `/Users/zenray/.claude/skills/claude-md-global/references/LoadingProtocolBefore30October2026.md`, archivé et sans autorité courante. (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> ## Sources officielles consultées (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> - Mémoire, règles, chemins et imports : https://code.claude.com/docs/en/memory (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Skills et sélection selon la description : https://code.claude.com/docs/en/skills (30 October 2026) (9 November 2026, 14:16:31 +0100)
+> - Observation par InstructionsLoaded : https://code.claude.com/docs/en/hooks#instructionsloaded (30 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+>
+> ARGUMENTS: Vérifier que CLAUDE.md, les règles, l'index INDEX1.md, triggers.json et les miroirs pointent vers /Users/zenray/.claude/Memory1/ZenRayKnight/ZenRayKnight1.md pour la vente, le freelance, la prospection, le marketing et l'argent (9 November 2026, 14:16:31 +0100)
+
+## 9 November 2026, 14:16:31 +0100 : Prompt
+
+<!-- feedback-event:133f0cba4d3a0ba0baa5e88e6dc0e6a4688de69f669776531bee806432255023 (9 November 2026, 14:16:31 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 14:16:31 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:16:31 +0100)
+
+> Base directory for this skill: /Users/zenray/.claude/skills/zenray-1-line (9 November 2026, 14:16:31 +0100)
+>
+> # ZenRay OneLine (14 October 2026) (9 November 2026, 14:16:31 +0100)
+>
+> Réponds en une seule ligne stricte, dense et autosuffisante, sans préambule, sans puce et sans conclusion. (14 October 2026) (9 November 2026, 14:16:31 +0100)
+
+## 9 November 2026, 14:16:35 +0100 : Prompt
+
+<!-- feedback-event:49401786c85e92761d2622e9e46e436fe75208ef9d9ce33154cefa16cf88a64b (9 November 2026, 14:16:35 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 14:16:35 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:16:35 +0100)
+
+> Base directory for this skill: /Users/zenray/.claude/skills/claude-md-global (9 November 2026, 14:16:35 +0100)
+>
+> # 30 October 2026 : doctrine globale et catalogue de références (9 November 2026, 14:16:35 +0100)
+>
+> - Source globale : `/Users/zenray/.claude/CLAUDE.md` ; catalogue de données : `/Users/zenray/.claude/rules/INDEX1.md`. Les fichiers `*1.md` portent doctrine ou connaissance durable ; ce ne sont pas des skills. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Un skill porte une méthode réutilisable pour une tâche répétitive déjà effectuée, dont la procédure a été approuvée. Sa description permet sa sélection par l’agent ; ses références sont lues selon le besoin. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Lire le catalogue complet, déterminer les domaines concernés par la demande ET son contexte, lire leurs sections pertinentes puis suivre les dépendances utiles ; renouveler cette sélection quand la tâche change. L’absence d’un mot-clé ne justifie jamais d’ignorer un domaine. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - `which-rule.mjs` et son vocabulaire sont historiques, sans autorité de sélection. Ne plus les lancer comme préalable et ne plus imposer l’ajout de déclencheurs aux règles nouvelles. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> ## Trois mécanismes natifs de Claude Code (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> 1. Les fichiers Markdown de `.claude/rules/` sans `paths` se chargent au démarrage ; les règles utilisateur de `/Users/zenray/.claude/rules/` concernent tous les projets. Les sous-dossiers de rules sont parcourus récursivement. Ranger dans rules ne signifie donc pas charger à la demande. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> 2. Une règle avec un frontmatter YAML `paths` se charge lorsque Claude consulte ou modifie un fichier correspondant. Les motifs sont relatifs à la racine du projet pour les règles projet, au dossier de travail principal pour les règles utilisateur. Seul `paths` est interprété dans le frontmatter des règles ; une description n’en fait pas un sélecteur sémantique. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> 3. Les `CLAUDE.md` des ancêtres et du dossier courant se chargent au lancement ; ceux des sous-dossiers se chargent lorsque Claude lit, écrit ou modifie un fichier dans ces sous-dossiers. Ils se cumulent ; éviter toute contradiction. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> ## Chemins, imports et limites (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> - Donner des chemins absolus dans le catalogue pour les lectures explicites depuis tout environnement ; un chemin ne déclenche pas de chargement. Un import `@path` charge sa cible avec le parent et n’économise pas le contexte. Les chemins relatifs d’import se résolvent depuis le fichier qui importe. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Ne pas attribuer le comportement natif Claude Code à Codex ou Gemini. Leurs miroirs doivent contenir le socle et le catalogue permettant la lecture explicite des mêmes sources. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Ne pas confondre fichier chargé et consigne appliquée. Aucune garantie de zéro erreur ou de 99,9 % n’est établie. `/context`, `/memory` et, si disponible dans la version installée, `InstructionsLoaded` permettent d’observer le chargement ; ils ne prouvent pas l’application des règles. Ne pas promettre un déchargement immédiat du texte déjà lu. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Conserver les règles indispensables dans le socle court ; les règles par chemins doivent correspondre à des fichiers réellement concernés, jamais à de faux chemins destinés à cacher des données. Les gros fichiers de mémoire passent par leurs routeurs existants. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> ## Modification et vérification (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> - Éditer uniquement la source `/Users/zenray/.claude/CLAUDE.md` et le skill canonique `/Users/zenray/.claude/skills/claude-md-global/SKILL.md`. Mettre à jour descriptions, catalogue et références actives lors d’une évolution ; préserver les archives comme historique explicitement périmé. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Régénérer le catalogue avec `node /Users/zenray/.claude/skills/claude-md-global/scripts/build-rules-index.mjs`, vérifier avec `node /Users/zenray/.claude/skills/claude-md-global/scripts/extract-rules.mjs --verify`, puis synchroniser par `zsh /Users/zenray/.claude/skills/skill-sync/scripts/sync-skill.sh claude-md-global` et vérifier les miroirs. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Historique de l’ancien protocole : `/Users/zenray/.claude/skills/claude-md-global/references/LoadingProtocolBefore30October2026.md`, archivé et sans autorité courante. (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> ## Sources officielles consultées (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> - Mémoire, règles, chemins et imports : https://code.claude.com/docs/en/memory (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Skills et sélection selon la description : https://code.claude.com/docs/en/skills (30 October 2026) (9 November 2026, 14:16:35 +0100)
+> - Observation par InstructionsLoaded : https://code.claude.com/docs/en/hooks#instructionsloaded (30 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+>
+> ARGUMENTS: Vérifier que CLAUDE.md, les règles, l'index INDEX1.md, triggers.json et les miroirs pointent vers /Users/zenray/.claude/Memory1/ZenRayKnight/ZenRayKnight1.md pour la vente, le freelance, la prospection, le marketing et l'argent (9 November 2026, 14:16:35 +0100)
+>
+> Base directory for this skill: /Users/zenray/.claude/skills/zenray-1-line (9 November 2026, 14:16:35 +0100)
+>
+> # ZenRay OneLine (14 October 2026) (9 November 2026, 14:16:35 +0100)
+>
+> Réponds en une seule ligne stricte, dense et autosuffisante, sans préambule, sans puce et sans conclusion. (14 October 2026) (9 November 2026, 14:16:35 +0100)
+
+## 9 November 2026, 14:17:18 +0100 : Prompt
+
+<!-- feedback-event:50b4607e186b6e0257543042b90e34014a1e25e1450486aaedb83548b107587b (9 November 2026, 14:17:18 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 14:17:18 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:17:18 +0100)
+
+> The user sent a new message while you were working: (9 November 2026, 14:17:18 +0100)
+> Du coup fais tout si c'est pas fait pense à tout. (9 November 2026, 14:17:18 +0100)
+>
+> This is how Claude Code surfaces messages the user sends mid-turn — within the running turn, often alongside the next tool result, rather than as a separate conversation turn. Address the message above as you continue this turn. (9 November 2026, 14:17:18 +0100)
+
+## 9 November 2026, 14:17:28 +0100 : Iteration
+
+<!-- feedback-event:3baff8bd84e4edacb60df9a4a9978194fa5bee862e5cfd76efacb2f3c87210ee (9 November 2026, 14:17:28 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:17:28 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:17:28 +0100)
+
+> Un dernier renvoi oublié dans `zenray-sales` est corrigé et synchronisé. Je passe maintenant le reste au peigne fin : scripts, réglages, registre Assets, autres dépôts et taille de CLAUDE.md. (9 November 2026, 14:17:28 +0100)
+
+## 9 November 2026, 14:18:49 +0100 : Iteration
+
+<!-- feedback-event:1df7c69b5e7c0d98f15771d5726b6e4ada9e21d6106e1614cd5039c94eed886b (9 November 2026, 14:18:49 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:18:49 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:18:49 +0100)
+
+> Le registre Assets ne mentionne `Sales1.md` que dans son journal d'événements passés : il n'y a aucune source enregistrée à réparer. Je valide la copie Memory du skill corrigé. (9 November 2026, 14:18:49 +0100)
+
+## 9 November 2026, 14:20:11 +0100 : Iteration
+
+<!-- feedback-event:6ac7e5c11151bec1084bfd8e8e5d3d716dcc85c4c515e3bde5aa25e4597e6422 (9 November 2026, 14:20:11 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:20:11 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:20:11 +0100)
+
+> Oui : CLAUDE.md, son catalogue `INDEX1.md` (régénéré, identique), cinq règles, `triggers.json`, trois skills et leurs copies Codex, Gemini et Memory, le Readme de Memory1, `state.json`, le plan d'attaque, le bouton de ZenRayProgress en production et le banc de ZenRay Past pointent tous vers `/Users/zenray/.claude/Memory1/ZenRayKnight/ZenRayKnight1.md`, et j'ai corrigé un dernier renvoi aux notes d'Andreas oublié dans `zenray-sales`. Seules les traces historiques (journal, FEEDBACK, archives de conversations) gardent les anciens noms, et en passant j'ai trouvé qu'Antigravity, ouvert depuis hier soir, laisse des verrous git orphelins qui ont bloqué la sauvegarde de Memory1 au moins 90 fois depuis hier soir (verrou retiré, commit passé) ; le contrôle de la production à 10 minutes tourne encore. (9 November 2026, 14:20:11 +0100)
+
+## 9 November 2026, 14:20:13 +0100 : Prompt
+
+<!-- feedback-event:e8b27a1b6f3e8b1370004ab0b8801fbd692c68b6aac796d5911d7eda2048485a (9 November 2026, 14:20:13 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: prompt. (9 November 2026, 14:20:13 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:20:13 +0100)
+
+> <task-notification> (9 November 2026, 14:20:13 +0100)
+> <task-id>b5ql1pn0a</task-id> (9 November 2026, 14:20:13 +0100)
+> <tool-use-id>toolu_01R4otTTw8Lo521iHfBs366d</tool-use-id> (9 November 2026, 14:20:13 +0100)
+> <output-file>/private/tmp/claude-501/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6/tasks/b5ql1pn0a.output</output-file> (9 November 2026, 14:20:13 +0100)
+> <status>completed</status> (9 November 2026, 14:20:13 +0100)
+> <summary>Background command "Recheck production bundle ten minutes after deploy" completed (exit code 0)</summary> (9 November 2026, 14:20:13 +0100)
+> </task-notification> (9 November 2026, 14:20:13 +0100)
+
+## 9 November 2026, 14:20:26 +0100 : Iteration
+
+<!-- feedback-event:fbd2ddce5995414a4867b56a2a4829675fe372ac0316aa4f69aec44935de13bb (9 November 2026, 14:20:26 +0100) -->
+- Project: conversation-claude-5316aef55aa94522e805fa65; kind: iteration. (9 November 2026, 14:20:26 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/6af72161-967c-4826-aab6-8fed6ea2efc6.jsonl. (9 November 2026, 14:20:26 +0100)
+
+> Le contrôle à dix minutes est vert : la production sert toujours `index-C_XcpTfn.js`, avec le bouton « Zenray Knight », donc aucune autre session ne l'a écrasé ; reste seulement ta décision sur les verrous git qu'Antigravity laisse dans Memory1. (9 November 2026, 14:20:26 +0100)
